@@ -1,4 +1,7 @@
-# EBS-Docs
+# EBS-DOCS
+## Documentação Oficial das aplicações da EBS Security Systems
+### Contribuíções
+- [ThiagoSousa81](https://github.com/thiagosousa81)
 ### Sumário<br>
 - [EBS-WEB](https://github.com/EBS-Security-Systems)
 - [EBS-GUI](https://github.com/EBS-Security-Systems)
