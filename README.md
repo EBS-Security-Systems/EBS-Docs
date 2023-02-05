@@ -3,14 +3,14 @@
 ### Autores Contribuíntes
 > [ThiagoSousa81](https://github.com/thiagosousa81)
 ### Sumário<br>
-- [EBS-WEB](https://github.com/EBS-Security-Systems)
-- [EBS-GUI](https://github.com/EBS-Security-Systems)
-- [EBS-CLI](https://github.com/EBS-Security-Systems)
-- [EBS-CSP](https://github.com/EBS-Security-Systems)
-- [EBS-IDC](https://github.com/EBS-Security-Systems)
-- [EBS-ISE](https://github.com/EBS-Security-Systems)
-- [EBS-KMS](https://github.com/EBS-Security-Systems)
-- [EBS-HMS](https://github.com/EBS-Security-Systems)
+- [EBS-WEB](https://github.com/EBS-Security-Systems/EBS-Docs/blob/main/docs/EBS-WEB.md)
+- [EBS-GUI](https://github.com/EBS-Security-Systems/EBS-Docs/blob/main/docs/EBS-GUI.md)
+- [EBS-CLI](https://github.com/EBS-Security-Systems/EBS-Docs/blob/main/docs/EBS-CLI.md)
+- [EBS-CSP](https://github.com/EBS-Security-Systems/EBS-Docs/blob/main/docs/EBS-CSP.md)
+- [EBS-IDC](https://github.com/EBS-Security-Systems/EBS-Docs/blob/main/docs/EBS-IDC.md)
+- [EBS-ISE](https://github.com/EBS-Security-Systems/EBS-Docs/blob/main/docs/EBS-ISE.md)
+- [EBS-KMS](https://github.com/EBS-Security-Systems/EBS-Docs/blob/main/docs/EBS-KMS.md)
+- [EBS-HMS](https://github.com/EBS-Security-Systems/EBS-Docs/blob/main/docs/EBS-HMS.md)
 
 ### Resumo
 <p>Este diretório tem por objetivo documentar sobre todas as aplicações oficiais da EBS Security Systems, bem como suas atualizações e novidades</p>
