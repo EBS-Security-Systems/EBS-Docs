@@ -12,6 +12,6 @@ Atualmente encontra-se em desenvolvimento!
 - Compartilhamento de ideias
 - Publicação de projetos moldados nas aplicações integradas
 
-### Ultima edição por [ThiagoSousa81](https://ThiagoSousa81/) em 06/02/2023
+### Ultima edição por [ThiagoSousa81](https://github.com/ThiagoSousa81/) em 06/02/2023
 
 [VOLTAR](https://github.com/EBS-Security-Systems/EBS-Docs#readme)

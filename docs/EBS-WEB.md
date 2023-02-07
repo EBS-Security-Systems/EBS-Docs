@@ -11,6 +11,6 @@ No momento o <strong>EBS-WEB</strong> conta com apenas <strong>duas</strong> fun
 > [LOGIN](https://api-ebs-web.epizy.com/login/)<br>
 > [CADASTRO](https://api-ebs-web.epizy.com/singup/)
 
-### Ultima edição por [ThiagoSousa81](https://ThiagoSousa81/) em 06/02/2023
+### Ultima edição por [ThiagoSousa81](https://github.com/ThiagoSousa81/) em 06/02/2023
 
 [VOLTAR](https://github.com/EBS-Security-Systems/EBS-Docs#readme)

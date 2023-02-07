@@ -17,6 +17,6 @@ Disponível em breve...
 ### Comandos
 Disponível em breve...
 
-### Ultima edição por [ThiagoSousa81](https://ThiagoSousa81/) em 06/02/2023
+### Ultima edição por [ThiagoSousa81](https://github.com/ThiagoSousa81/) em 06/02/2023
 
 [VOLTAR](https://github.com/EBS-Security-Systems/EBS-Docs#readme)

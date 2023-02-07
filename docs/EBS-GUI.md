@@ -15,6 +15,6 @@ O mesmo é conhecido por ter feito parte na fundação da <i>startup</i> moldand
 ### Instalação
 Disponível em breve...
 
-### Ultima edição por [ThiagoSousa81](https://ThiagoSousa81/) em 06/02/2023
+### Ultima edição por [ThiagoSousa81](https://github.com/ThiagoSousa81/) em 06/02/2023
 
 [VOLTAR](https://github.com/EBS-Security-Systems/EBS-Docs#readme)
