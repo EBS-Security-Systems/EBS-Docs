@@ -16,8 +16,8 @@
 <p>Este diretório tem por objetivo documentar sobre todas as aplicações oficiais da EBS Security Systems, bem como suas atualizações e novidades</p>
 
 ### Contribuíções são permitidas neste repositório...<br>
-- Para complementar conteúdo
-- Para correção de ortografia e gramática
-- Para correção de links e direcionamentos
+- [x] Para complementar conteúdo
+- [x] Para correção de ortografia e gramática
+- [x] Para correção de links e direcionamentos
 
 ### Logo ficam proibidas a escrita de palavrões e termos pejorativos, juntamente com direcionamentos para conteúdo externo que não façam parte da <i>startup</i>.
