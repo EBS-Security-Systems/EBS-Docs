@@ -24,6 +24,8 @@ Disponível em breve...
 | <code>Decrypt-3DES</code> | <code>File-Path</code><br><code>Key</code><br><code>IV</code><br><code>Multiple</code> | Desencriptar um arquivo, com o algoritmo 3DES (Triple Data Encryption Standard) |
 | <code>Encrypt-AES</code> | <code>File-Path</code><br><code>Key</code><br><code>IV</code><br><code>Multiple</code> | Encriptar um arquivo, com o algoritmo AES (Advanced Encryption Standard) | 
 | <code>Decrypt-AES</code> | <code>File-Path</code><br><code>Key</code><br><code>IV</code><br><code>Multiple</code> | Desencriptar um arquivo, com o algoritmo AES (Advanced Encryption Standard) |
+| <code>Encrypt-RC2</code> | <code>File-Path</code><br><code>Key</code><br><code>IV</code><br><code>Multiple</code> | Encriptar um arquivo, com o algoritmo RC2 (Rivest Compiler Two) | 
+| <code>Decrypt-RC2</code> | <code>File-Path</code><br><code>Key</code><br><code>IV</code><br><code>Multiple</code> | Desencriptar um arquivo, com o algoritmo RC2 (Rivest Compiler Two) |
 
 ### Ultima edição por [ThiagoSousa81](https://github.com/ThiagoSousa81/) em 12/02/2023
 
