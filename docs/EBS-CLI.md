@@ -20,6 +20,6 @@ Disponível em breve...
 | <code>/help</code> | nenhum | Chamar ajuda do aplicativo |
 | | | | 
 
-### Ultima edição por [ThiagoSousa81](https://github.com/ThiagoSousa81/) em 06/02/2023
+### Ultima edição por [ThiagoSousa81](https://github.com/ThiagoSousa81/) em 12/02/2023
 
 [VOLTAR](https://github.com/EBS-Security-Systems/EBS-Docs#readme)
