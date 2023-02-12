@@ -15,7 +15,10 @@ O <strong>EBS-CLI</strong> é um programa de computador que controla processos d
 Disponível em breve...
 
 ### Comandos
-Disponível em breve...
+| Código | Parâmetros | Função |
+| --- | --- | --- |
+| <code>/help</code> | nenhum | Chamar ajuda do aplicativo |
+| | | | 
 
 ### Ultima edição por [ThiagoSousa81](https://github.com/ThiagoSousa81/) em 06/02/2023
 
