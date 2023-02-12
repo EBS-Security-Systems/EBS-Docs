@@ -19,7 +19,9 @@ Disponível em breve...
 | --- | --- | --- |
 | <code>/help</code> | nenhum | Chamar ajuda do aplicativo |
 | <code>Encrypt-DES</code> | <code>File-Path</code><br><code>Key</code><br><code>IV</code><br><code>Multiple</code> | Encriptar um arquivo, com o algoritmo DES (Data Encryption Standard) | 
-| <code>Decrypt-DES</code> | <code>File-Path</code><br><code>Key</code><br><code>IV</code><br><code>Multiple</code> | Desencriptar um arquivo, com o algoritmo DES (Data Encryption Standard) | 
+| <code>Decrypt-DES</code> | <code>File-Path</code><br><code>Key</code><br><code>IV</code><br><code>Multiple</code> | Desencriptar um arquivo, com o algoritmo DES (Data Encryption Standard) |
+| <code>Encrypt-3DES</code> | <code>File-Path</code><br><code>Key</code><br><code>IV</code><br><code>Multiple</code> | Encriptar um arquivo, com o algoritmo 3DES (Triple Data Encryption Standard) | 
+| <code>Decrypt-3DES</code> | <code>File-Path</code><br><code>Key</code><br><code>IV</code><br><code>Multiple</code> | Desencriptar um arquivo, com o algoritmo 3DES (Triple Data Encryption Standard) |
 | <code>Encrypt-AES</code> | <code>File-Path</code><br><code>Key</code><br><code>IV</code><br><code>Multiple</code> | Encriptar um arquivo, com o algoritmo AES (Advanced Encryption Standard) | 
 | <code>Decrypt-AES</code> | <code>File-Path</code><br><code>Key</code><br><code>IV</code><br><code>Multiple</code> | Desencriptar um arquivo, com o algoritmo AES (Advanced Encryption Standard) |
 
