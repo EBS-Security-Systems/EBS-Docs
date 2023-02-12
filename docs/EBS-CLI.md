@@ -18,7 +18,7 @@ Disponível em breve...
 | Código | Parâmetros | Função |
 | --- | --- | --- |
 | <code>/help</code> | nenhum | Chamar ajuda do aplicativo |
-| | | | 
+| <code>Encrypt-AES</code> | File-Path<br>Key<br>IV<br>Multiple | Encriptar um arquivo, com o algoritmo AES (Advanced Encryption Standard) | 
 
 ### Ultima edição por [ThiagoSousa81](https://github.com/ThiagoSousa81/) em 12/02/2023
 
