@@ -15,6 +15,9 @@ O <strong>EBS-CLI</strong> é um programa de computador que controla processos d
 Disponível em breve...
 
 ### Comandos
+
+<details><summary>Clique para visualizar...</summary>
+  
 | Comando | Parâmetros | Função |
 | --- | --- | --- |
 | <code>/help</code> | nenhum | Chamar ajuda do aplicativo |
@@ -26,6 +29,8 @@ Disponível em breve...
 | <code>Decrypt-AES</code> | <code>File-Path</code><br><code>Key</code><br><code>IV</code><br><code>Multiple</code> | Desencriptar um arquivo, com o algoritmo AES (Advanced Encryption Standard) |
 | <code>Encrypt-RC2</code> | <code>File-Path</code><br><code>Key</code><br><code>IV</code><br><code>Multiple</code> | Encriptar um arquivo, com o algoritmo RC2 (Rivest Compiler Two) | 
 | <code>Decrypt-RC2</code> | <code>File-Path</code><br><code>Key</code><br><code>IV</code><br><code>Multiple</code> | Desencriptar um arquivo, com o algoritmo RC2 (Rivest Compiler Two) |
+  
+</details>
 
 ### Ultima edição por [ThiagoSousa81](https://github.com/ThiagoSousa81/) em 12/02/2023
 
