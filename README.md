@@ -2,6 +2,7 @@
 ## Documentação Oficial das aplicações da EBS Security Systems
 ### Autores Contribuíntes
 > [ThiagoSousa81](https://github.com/thiagosousa81)
+
 ### Sumário<br>
 - [EBS-WEB](https://github.com/EBS-Security-Systems/EBS-Docs/blob/main/docs/EBS-WEB.md)
 - [EBS-GUI](https://github.com/EBS-Security-Systems/EBS-Docs/blob/main/docs/EBS-GUI.md)
