@@ -21,17 +21,12 @@ Disponível em breve...
 | Comando | Parâmetros | Função |
 | --- | --- | --- |
 | <code>/help</code> | nenhum | Chamar ajuda do aplicativo |
-| <code>Encrypt-DES</code> | <code>File-Path</code><br><code>Key</code><br><code>IV</code><br><code>Multiple</code> | Encriptar um arquivo, com o algoritmo DES (Data Encryption Standard) | 
-| <code>Decrypt-DES</code> | <code>File-Path</code><br><code>Key</code><br><code>IV</code><br><code>Multiple</code> | Desencriptar um arquivo, com o algoritmo DES (Data Encryption Standard) |
-| <code>Encrypt-3DES</code> | <code>File-Path</code><br><code>Key</code><br><code>IV</code><br><code>Multiple</code> | Encriptar um arquivo, com o algoritmo 3DES (Triple Data Encryption Standard) | 
-| <code>Decrypt-3DES</code> | <code>File-Path</code><br><code>Key</code><br><code>IV</code><br><code>Multiple</code> | Desencriptar um arquivo, com o algoritmo 3DES (Triple Data Encryption Standard) |
-| <code>Encrypt-AES</code> | <code>File-Path</code><br><code>Key</code><br><code>IV</code><br><code>Multiple</code> | Encriptar um arquivo, com o algoritmo AES (Advanced Encryption Standard) | 
-| <code>Decrypt-AES</code> | <code>File-Path</code><br><code>Key</code><br><code>IV</code><br><code>Multiple</code> | Desencriptar um arquivo, com o algoritmo AES (Advanced Encryption Standard) |
-| <code>Encrypt-RC2</code> | <code>File-Path</code><br><code>Key</code><br><code>IV</code><br><code>Multiple</code> | Encriptar um arquivo, com o algoritmo RC2 (Rivest Compiler Two) | 
-| <code>Decrypt-RC2</code> | <code>File-Path</code><br><code>Key</code><br><code>IV</code><br><code>Multiple</code> | Desencriptar um arquivo, com o algoritmo RC2 (Rivest Compiler Two) |
+| <code>/online-help</code> | nenhum | Abre este tópico de ajuda online |
+| <code>Encrypt-File</code> | <code>File-Path-In</code><br><code>File-Path-Out</code><br><code>Algorithm</code><br><code>Key</code><br><code>IV</code><br><code>Multiple</code> | Encripta um arquivo com os parâmetros selecionados |
+| <code>Decrypt-File</code> | <code>File-Path-In</code><br><code>File-Path-Out</code><br><code>Algorithm</code><br><code>Key</code><br><code>IV</code><br><code>Multiple</code> | Decripta um arquivo com os parâmetros selecionados |
   
 </details>
 
-### Ultima edição por [ThiagoSousa81](https://github.com/ThiagoSousa81/) em 12/02/2023
+### Ultima edição por [ThiagoSousa81](https://github.com/ThiagoSousa81/) em 24/02/2023
 
 [VOLTAR](https://github.com/EBS-Security-Systems/EBS-Docs#readme)
