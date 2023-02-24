@@ -11,8 +11,8 @@ O <strong>EBS-CLI</strong> é um programa de computador que controla processos d
 - Criar e importar pares de chaves de encriptação simétricas e assimétricas
 - Compartilhamento de <i>scripts</i> na [EBS-IDC](https://github.com/EBS-Security-Systems/EBS-Docs/blob/main/docs/EBS-IDC.md)
 
-### Instalação
-Disponível em breve...
+### Instalação (ainda não disponível)
+Link <https://cli.ebs-systems.epizy.com/>
 
 ### Comandos
 
