@@ -22,8 +22,8 @@ Link <https://cli.ebs-systems.epizy.com/>
 | --- | --- | --- |
 | <code>/help</code> | nenhum | Chamar ajuda do aplicativo |
 | <code>/online-help</code> | nenhum | Abre este tópico de ajuda online |
-| <code>Encrypt-File</code> | <code>File-Path-In</code><br><code>File-Path-Out</code><br><code>Algorithm</code><br><code>Key</code><br><code>IV</code><br><code>Multiple</code> | Encripta um arquivo com os parâmetros selecionados |
-| <code>Decrypt-File</code> | <code>File-Path-In</code><br><code>File-Path-Out</code><br><code>Algorithm</code><br><code>Key</code><br><code>IV</code><br><code>Multiple</code> | Decripta um arquivo com os parâmetros selecionados |
+| <code>Encrypt-File</code> | <code>File-Path-In</code><br><code>File-Path-Out</code><br><code>Algorithm</code><br><code>Key</code><br><code>IV</code><br><code>Multiple</code> | Encripta um arquivo e gera uma saída através dos parâmetros selecionados |
+| <code>Decrypt-File</code> | <code>File-Path-In</code><br><code>File-Path-Out</code><br><code>Algorithm</code><br><code>Key</code><br><code>IV</code><br><code>Multiple</code> | Decripta um arquivo e gera uma saída através dos parâmetros selecionados |
   
 </details>
 
