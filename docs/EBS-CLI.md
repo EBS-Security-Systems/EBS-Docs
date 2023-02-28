@@ -27,6 +27,6 @@ Link <https://cli.ebs-systems.epizy.com/>
   
 </details>
 
-### Ultima edição por [ThiagoSousa81](https://github.com/ThiagoSousa81/) em 24/02/2023
+### Ultima edição por [ThiagoSousa81](https://github.com/ThiagoSousa81/) em 28/02/2023
 
 [VOLTAR](https://github.com/EBS-Security-Systems/EBS-Docs#readme)
