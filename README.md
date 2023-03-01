@@ -1,7 +1,7 @@
 # EBS-DOCS
 ## Documentação Oficial das aplicações da EBS Security Systems
 ### Autores Contribuíntes
-> ### [ThiagoSousa81](https://github.com/thiagosousa81)
+> ### Thiago Sousa [@ThiagoSousa81](https://github.com/thiagosousa81)
 
 ### Sumário<br>
 
