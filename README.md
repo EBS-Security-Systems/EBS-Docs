@@ -4,6 +4,10 @@
 > [ThiagoSousa81](https://github.com/thiagosousa81)
 
 ### Sumário<br>
+
+- Artigos
+  - [Estúdio Construtuor de Encriptação](https://github.com/EBS-Security-Systems/EBS-Docs/blob/main/Plano%20de%20pesquisa%20-%20Est%C3%BAdio%20Construtor%20de%20Encripta%C3%A7%C3%A3o.pdf)
+  - [Empreendedorismo com EBS. 2022](https://github.com/EBS-Security-Systems/EBS-Docs/blob/main/Plano%20de%20pesquisa%20-%20Empreendedorismo%20com%20EBS.pdf)
 - [EBS-WEB](https://github.com/EBS-Security-Systems/EBS-Docs/blob/main/docs/EBS-WEB.md)
 - [EBS-GUI](https://github.com/EBS-Security-Systems/EBS-Docs/blob/main/docs/EBS-GUI.md)
 - [EBS-CLI](https://github.com/EBS-Security-Systems/EBS-Docs/blob/main/docs/EBS-CLI.md)
