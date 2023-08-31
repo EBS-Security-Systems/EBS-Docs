@@ -5,7 +5,7 @@ O programa <b>EBS-DSI</b> é um sistema que tem por objetivo principal ser uma p
 
 ### Funcionalidades
 
-- Criação de assinatura digital verificada
+- Criação de assinatura digital verificada por gov.br
 - Assinar digitalmente postagens no Instagram, comentários em blogs, servidores de Discord etc.
 
 ### Instalação
