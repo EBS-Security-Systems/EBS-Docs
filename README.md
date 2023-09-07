@@ -16,6 +16,7 @@
 - [EBS-ISE](https://github.com/EBS-Security-Systems/EBS-Docs/blob/main/docs/EBS-ISE.md)
 - [EBS-KMS](https://github.com/EBS-Security-Systems/EBS-Docs/blob/main/docs/EBS-KMS.md)
 - [EBS-HMS](https://github.com/EBS-Security-Systems/EBS-Docs/blob/main/docs/EBS-HMS.md)
+- [EBS-DSI](https://github.com/EBS-Security-Systems/EBS-Docs/blob/main/docs/EBS-DSI.md)
 
 ### Resumo
 <p>Este diretório tem por objetivo documentar sobre todas as aplicações oficiais da EBS Security Systems, bem como suas atualizações e novidades</p>
