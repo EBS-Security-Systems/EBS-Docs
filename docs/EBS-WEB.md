@@ -5,6 +5,10 @@
 
 O <strong>EBS-WEB</strong> é um <strong>OAuth</strong> onde todas as pessoas que acessam os serviços EBS são registradas criando uma conta para acessá-los. Ele controla o acesso para as aplicações e serviços de forma contínua e totalmente segura. Todos os dados são tratados com uma mesclagem dos melhores algoritmos de assinatura digital, sendo com que ninguém que tenha acesso ao SGBD veja informações sigilosas dos usuários do sistema, entre elas a senha.
 
+### Domínio
+
+O domínio oficial do <b>EBS-WEB</b> é "https://web.ebs-systems.epizy.com/", protegido por certificados SSL válidos na maioria das transmissões de dados digitais.
+
 ### Funcionalidades
 
 No momento o <strong>EBS-WEB</strong> realiza as seguintes funções
