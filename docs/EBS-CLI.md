@@ -11,8 +11,9 @@ O <strong>EBS-CLI</strong> é um programa de computador que controla processos d
 - Criar e importar pares de chaves de encriptação simétricas e assimétricas
 - Compartilhamento de <i>scripts</i> na [EBS-IDC](https://github.com/EBS-Security-Systems/EBS-Docs/blob/main/docs/EBS-IDC.md)
 
-### Instalação (ainda não disponível)
-Link <https://cli.ebs-systems.epizy.com/>
+### Site oficial: <https://cli.ebs-systems.epizy.com/>
+
+### Instalação <code>Em breve </></code>
 
 ### Comandos
 
@@ -20,13 +21,12 @@ Link <https://cli.ebs-systems.epizy.com/>
   
 | Comando | Parâmetros | Função |
 | --- | --- | --- |
-| <code>/help</code> | nenhum | Chamar ajuda do aplicativo |
-| <code>/online-help</code> | nenhum | Abre este tópico de ajuda online |
-| <code>Encrypt-File</code> | <code>File-Path-In</code><br><code>File-Path-Out</code><br><code>Algorithm</code><br><code>Key</code><br><code>IV</code><br><code>Multiple</code> | Encripta um arquivo e gera uma saída através dos parâmetros selecionados |
-| <code>Decrypt-File</code> | <code>File-Path-In</code><br><code>File-Path-Out</code><br><code>Algorithm</code><br><code>Key</code><br><code>IV</code><br><code>Multiple</code> | Decripta um arquivo e gera uma saída através dos parâmetros selecionados |
+| <code>help</code> | nenhum | Chamar ajuda do aplicativo |
+| <code>Encrypt-File</code> | <code>URL_In</code><br><code>URL_Out</code><br><code>Algorithm</code><br><code>Key</code><br><code>IV</code><br><code>Multiple</code> | Encripta um arquivo e gera uma saída através dos parâmetros selecionados |
+| <code>Decrypt-File</code> | <code>URL_In</code><br><code>URL_Out</code><br><code>Algorithm</code><br><code>Key</code><br><code>IV</code><br><code>Multiple</code> | Decripta um arquivo e gera uma saída através dos parâmetros selecionados |
   
 </details>
 
-### Ultima edição por [ThiagoSousa81](https://github.com/ThiagoSousa81/) em 28/02/2023
+### Ultima edição por [ThiagoSousa81](https://github.com/ThiagoSousa81/) em 15/02/2024
 
 [VOLTAR](https://github.com/EBS-Security-Systems/EBS-Docs#readme)
