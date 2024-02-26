@@ -12,7 +12,7 @@
 - Integração direta com o [EBS-WEB](https://github.com/EBS-Security-Systems/EBS-Docs/blob/main/docs/EBS-WEB.md)
 
 ### Acesso
-É possível utilizá-la pelo link https://csp.ebs-systems.epizy.com/
+É possível utilizá-la pelo link https://csp.ebs-systems.epizy.com/. O formulário gera um link preparado da API com sua conta que pode ser utilizado como uma API-CSP em seu próprio aplicativo.
 
 ### Padrões
 
@@ -26,6 +26,6 @@ Cada algoritmo tem um tamanho definido de chaves e vetores. Veja a tabela abaixo
 | RC2 | 5 a 16 caracteres | 8 caracteres |
 
 
-### Ultima edição por [ThiagoSousa81](https://github.com/ThiagoSousa81/) em 14/09/2023
+### Ultima edição por [ThiagoSousa81](https://github.com/ThiagoSousa81/) em 26/02/2024
 
 [VOLTAR](https://github.com/EBS-Security-Systems/EBS-Docs#readme)
