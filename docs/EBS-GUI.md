@@ -1,4 +1,4 @@
-# EBS-GUI
+# EBS-GUI 
 ## Interface Gráfica de Usuários
 ### Resumo
 O programa <b>EBS-GUI</b> (conhecido também por <i>Encript-Master</i>, ou na sua forma atual <i>Encryption's Builder Studio</i>) é um sistema que tem por objetivo principal aproximar as pessoas à <b>codificação</b>, <b>criptografia</b> e <b>assinatura digital (hashs)</b> de forma prática e simples.
