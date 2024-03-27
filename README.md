@@ -11,6 +11,7 @@
   - [Empreendedorismo com EBS. 2022](https://github.com/EBS-Security-Systems/EBS-Docs/blob/main/Plano%20de%20pesquisa%20-%20Empreendedorismo%20com%20EBS.pdf)
 
   </details>
+  
 - ### [EBS-WEB](https://github.com/EBS-Security-Systems/EBS-Docs/blob/main/docs/EBS-WEB.md)
 - ### [EBS-GUI](https://github.com/EBS-Security-Systems/EBS-Docs/blob/main/docs/EBS-GUI.md)
 - ### [EBS-CLI](https://github.com/EBS-Security-Systems/EBS-Docs/blob/main/docs/EBS-CLI.md)
@@ -20,6 +21,7 @@
 - ### [EBS-KMS](https://github.com/EBS-Security-Systems/EBS-Docs/blob/main/docs/EBS-KMS.md)
 - ### [EBS-HMS](https://github.com/EBS-Security-Systems/EBS-Docs/blob/main/docs/EBS-HMS.md)
 - ### [EBS-DSI](https://github.com/EBS-Security-Systems/EBS-Docs/blob/main/docs/EBS-DSI.md)
+- ### [EBS-BCS](https://github.com/EBS-Security-Systems/EBS-Docs/blob/main/docs/EBS-BCS.md)
 
 ### Resumo
 <p>Este diretório tem por objetivo documentar sobre todas as aplicações oficiais da EBS Security Systems, bem como suas atualizações e novidades</p>
