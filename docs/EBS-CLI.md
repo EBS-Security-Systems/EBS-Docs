@@ -17,6 +17,8 @@ O <strong>EBS-CLI</strong> é um programa de computador que controla processos d
 
 <details><summary>Clique para visualizar...</summary>
 
+<a href="https://cli.ebs-systems.epizy.com/" target="_blank"><img src="https://img.shields.io/badge/Download-white?style=flat" style="height: 30px"/></a> 
+
 1. Execute o arquivo setup.exe
 
 2. Coloque o <code>script.ps1</code> em um lugar fácil, como na área de trabalho
