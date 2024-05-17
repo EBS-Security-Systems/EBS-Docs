@@ -17,7 +17,7 @@ O <strong>EBS-CLI</strong> é um programa de computador que controla processos d
 
 <details><summary>Clique para visualizar...</summary>
 
-<a href="https://cli.ebs-systems.epizy.com/" target="_blank"><img src="https://img.shields.io/badge/Download-white?style=flat" style="height: 30px"/></a> 
+<a href="https://cli.ebs-systems.epizy.com/" target="_blank"><img src="https://img.shields.io/badge/📥Download-white?style=flat" style="height: 30px"/></a> 
 
 1. Execute o arquivo setup.exe
 
@@ -27,13 +27,13 @@ O <strong>EBS-CLI</strong> é um programa de computador que controla processos d
 
 3. Ative a execução de scripts do Windows Powershell, assim:
 
-3.1. Para fazer isso abra o Windows PowerShell como Administrador
+    3.1. Para fazer isso abra o Windows PowerShell como Administrador
 
-3.2. Execute esse comando: <code>Set-ExecutionPolicy Unrestricted</code>
+    3.2. Execute esse comando: <code>Set-ExecutionPolicy Unrestricted</code>
 
-3.3. Na pergunta de confirmação, insira <code>A</code>
+    3.3. Na pergunta de confirmação, insira <code>A</code>
 
-3.4. Execute esse comando: <code>exit</code>
+    3.4. Execute esse comando: <code>exit</code>
 
 4. Clique com o botão direito no <code>script.ps1</code> e em Executar com PowerShell
 
