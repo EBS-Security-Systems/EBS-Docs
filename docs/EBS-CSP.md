@@ -33,6 +33,6 @@ Cada algoritmo tem um tamanho definido de chaves e vetores. Veja a tabela abaixo
 > OBS.: O ChaCha20 é uma cifra de fluxo, porém precisa do IV para gerar o _KeyStream_
 
 
-### Ultima edição por [ThiagoSousa81](https://github.com/ThiagoSousa81/) em 26/02/2024
+### Ultima edição por [ThiagoSousa81](https://github.com/ThiagoSousa81/) em 11/07/2024
 
 [VOLTAR](https://github.com/EBS-Security-Systems/EBS-Docs#readme)
