@@ -27,7 +27,7 @@ Cada algoritmo tem um tamanho definido de chaves e vetores. Veja a tabela abaixo
 | 3DES | 128 bits |  16 caracteres | 8 caracteres |
 | ARC2 | máximo 128 bits | 5 a 16 caracteres | 8 caracteres |
 | CAST | 64 ou 128 bits | 8 ou 16 caracteres | 8 caracteres |
-| Blowfish | 256 bits | 32 caracteres | 8 caracteres |
+| Blowfish | máximo 448 bits | 56 caracteres | 8 caracteres |
 | ChaCha20* | 256 bits | 32 caracteres | 8 caracteres |
 
 > OBS.: O ChaCha20 é uma cifra de fluxo, porém precisa do IV para gerar o _KeyStream_
