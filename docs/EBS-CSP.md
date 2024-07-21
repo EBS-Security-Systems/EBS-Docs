@@ -16,9 +16,9 @@
 
 > Para selecionar um algoritmo de forma mais rápida e fácil, clique no botão autopreenchimento.
 
-### Padrões
+### Padrões de Encriptação Simétrica
 
-Cada algoritmo tem um tamanho definido de chaves e vetores. Veja a tabela abaixo:
+Cada algoritmo de encriptação simétrica tem um tamanho definido de chaves e vetores. Veja a tabela abaixo:
 
 | Algoritmo | Quantidade de bits da chave | Tamanho da chave | Tamanho do vetor |
 | --- | --- | --- | --- |
@@ -27,12 +27,37 @@ Cada algoritmo tem um tamanho definido de chaves e vetores. Veja a tabela abaixo
 | 3DES | 128 bits |  16 caracteres | 8 caracteres |
 | ARC2 | máximo 128 bits | 5 a 16 caracteres | 8 caracteres |
 | CAST | 64 ou 128 bits | 8 ou 16 caracteres | 8 caracteres |
-| Blowfish | máximo 448 bits | 56 caracteres | 8 caracteres |
+| Blowfish | máximo 448 bits | 4 a 56 caracteres | 8 caracteres |
 | ChaCha20* | 256 bits | 32 caracteres | 8 caracteres |
 
 > OBS.: O ChaCha20 é uma cifra de fluxo, porém precisa do IV para gerar o _KeyStream_
 
+### Padrões de Encriptação Assimétrica
 
-### Ultima edição por [ThiagoSousa81](https://github.com/ThiagoSousa81/) em 11/07/2024
+Diferentemente da criptografia simétrica, que pode receber um número fixo de caracteres para chave e vetor, a assimétrica por si só gera um par de chaves específico, onde uma chamada **pública** é usada para encriptar e outra chamada **privada** é usada para decriptar.
+<br>
+Ao enviar mensagens encriptadas com esse tipo de procedimento, você e o receptor devem ambos gerarem um par de chaves. Você deve enviar sua chave pública ao receptor e ele lhe enviar a dele. Agora você pode encriptar a mensagem com a chave do receptor e somente ele poderá decriptar com a chave privada.
+
+> A geração de chaves é um processo que consome um alto processamento! Logo resolveremos esse problema.
+
+No momento temos os seguintes algoritmos de encriptação assimétrica
+
+| Algoritmo | Tamanho máximo de chave (bits) |
+| --- | --- |
+| RSA | 4096* |
+
+### Observações
+1. Nem sempre será possível gerar um par de chaves 4096, pois exige um processamento considerável. Garantimos que o mais seguro será o 2048 ou o 3072, porém a cifra aceita outros valores.
+
+2. A criptografia RSA não aceita uma grande quantidade de texto para ser encriptado de uma vez! Algumas sugestões seriam implementar o *Cipher Block Chaning* (CBC) ou criptorafia por bloco desprovido de vetor.
+
+3. O valor de bits aplicado para o tamanho da chave pode ser variável fora dos que são usados normalmente (1024, 2048, 3072, e 4096). 
+<br>Ex.: Você pode gerar um par de chaves de 1050 bis, porém é algo fora do padrão
+
+4. O tamanho em bits aplicado ao par de chaves não pode ser menor que 1024 pois é considerado inseguro! Queremos implementá-lo para testes no EBS-LAB (spoilers 😁)
+
+5. Você pode gerar um par de chaves fora do EBS-CSP com até uma quantidade maior de bits. Isso possibilita ao EBS-CSP encriptar mensagens maiores.
+
+### Ultima edição por [ThiagoSousa81](https://github.com/ThiagoSousa81/) em 21/07/2024
 
 [VOLTAR](https://github.com/EBS-Security-Systems/EBS-Docs#readme)
