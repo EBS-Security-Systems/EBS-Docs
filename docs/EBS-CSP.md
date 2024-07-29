@@ -58,6 +58,32 @@ No momento temos os seguintes algoritmos de encriptação assimétrica
 
 5. Você pode gerar um par de chaves fora do EBS-CSP com até uma quantidade maior de bits. Isso possibilita ao EBS-CSP encriptar mensagens maiores.
 
-### Ultima edição por [ThiagoSousa81](https://github.com/ThiagoSousa81/) em 21/07/2024
+### Assinaturas Digitais - Hashs
+
+O **EBS-CSP** permite gerar hashs sobre a padronização de diversos algoritmos com múltiplos variados. Abaixo vê-se uma tabela com os hashs disponíveis.
+
+| Hash       | Comprimento (bits) |
+|------------|--------------------|
+| MD5        | 128                |
+| SHA-1      | 160                |
+| SHA-224    | 224                |
+| SHA-256    | 256                |
+| SHA-384    | 384                |
+| SHA-512    | 512                |
+| BLAKE2b    | 256                |
+| BLAKE2s    | 256                |
+| SHA3-224   | 224                |
+| SHA3-256   | 256                |
+| SHA3-384   | 384                |
+| SHA3-512   | 512                |
+| SHAKE-128  | Variável (mínimo ideal 128) |
+| SHAKE-256  | Variável (mínimo ideal 256) |
+
+> Os algoritmos **SHAKE-128** e **SHAKE-256** permitem uma saída variável por meio de um tamanho inteiro.
+
+> O **EBS-CSP** agora permite também gerar o BASE-64 dos hashs em lugar dos hexadecimais também! Eles geralmente continuam com tamanho fixo, diferentemente das encriptações.
+
+
+### Ultima edição por [ThiagoSousa81](https://github.com/ThiagoSousa81/) em 28/07/2024
 
 [VOLTAR](https://github.com/EBS-Security-Systems/EBS-Docs#readme)
